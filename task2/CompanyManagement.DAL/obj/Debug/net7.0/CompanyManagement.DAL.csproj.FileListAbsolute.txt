@@ -1,0 +1,14 @@
+I:\iti\Api\tasks\task2\CompanyManagement.DAL\bin\Debug\net7.0\CompanyManagement.DAL.deps.json
+I:\iti\Api\tasks\task2\CompanyManagement.DAL\bin\Debug\net7.0\CompanyManagement.DAL.runtimeconfig.json
+I:\iti\Api\tasks\task2\CompanyManagement.DAL\bin\Debug\net7.0\CompanyManagement.DAL.dll
+I:\iti\Api\tasks\task2\CompanyManagement.DAL\bin\Debug\net7.0\CompanyManagement.DAL.pdb
+I:\iti\Api\tasks\task2\CompanyManagement.DAL\obj\Debug\net7.0\CompanyManagement.DAL.csproj.AssemblyReference.cache
+I:\iti\Api\tasks\task2\CompanyManagement.DAL\obj\Debug\net7.0\CompanyManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+I:\iti\Api\tasks\task2\CompanyManagement.DAL\obj\Debug\net7.0\CompanyManagement.DAL.AssemblyInfoInputs.cache
+I:\iti\Api\tasks\task2\CompanyManagement.DAL\obj\Debug\net7.0\CompanyManagement.DAL.AssemblyInfo.cs
+I:\iti\Api\tasks\task2\CompanyManagement.DAL\obj\Debug\net7.0\CompanyManagement.DAL.csproj.CoreCompileInputs.cache
+I:\iti\Api\tasks\task2\CompanyManagement.DAL\obj\Debug\net7.0\CompanyManagement.DAL.dll
+I:\iti\Api\tasks\task2\CompanyManagement.DAL\obj\Debug\net7.0\refint\CompanyManagement.DAL.dll
+I:\iti\Api\tasks\task2\CompanyManagement.DAL\obj\Debug\net7.0\CompanyManagement.DAL.pdb
+I:\iti\Api\tasks\task2\CompanyManagement.DAL\obj\Debug\net7.0\CompanyManagement.DAL.genruntimeconfig.cache
+I:\iti\Api\tasks\task2\CompanyManagement.DAL\obj\Debug\net7.0\ref\CompanyManagement.DAL.dll

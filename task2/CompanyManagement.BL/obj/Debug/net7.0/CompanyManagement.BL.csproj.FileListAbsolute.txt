@@ -1,0 +1,15 @@
+I:\iti\Api\tasks\task2\CompanyManagement.BL\bin\Debug\net7.0\CompanyManagement.BL.deps.json
+I:\iti\Api\tasks\task2\CompanyManagement.BL\bin\Debug\net7.0\CompanyManagement.BL.dll
+I:\iti\Api\tasks\task2\CompanyManagement.BL\bin\Debug\net7.0\CompanyManagement.BL.pdb
+I:\iti\Api\tasks\task2\CompanyManagement.BL\bin\Debug\net7.0\CompanyManagement.DAL.dll
+I:\iti\Api\tasks\task2\CompanyManagement.BL\bin\Debug\net7.0\CompanyManagement.DAL.pdb
+I:\iti\Api\tasks\task2\CompanyManagement.BL\obj\Debug\net7.0\CompanyManagement.BL.csproj.AssemblyReference.cache
+I:\iti\Api\tasks\task2\CompanyManagement.BL\obj\Debug\net7.0\CompanyManagement.BL.GeneratedMSBuildEditorConfig.editorconfig
+I:\iti\Api\tasks\task2\CompanyManagement.BL\obj\Debug\net7.0\CompanyManagement.BL.AssemblyInfoInputs.cache
+I:\iti\Api\tasks\task2\CompanyManagement.BL\obj\Debug\net7.0\CompanyManagement.BL.AssemblyInfo.cs
+I:\iti\Api\tasks\task2\CompanyManagement.BL\obj\Debug\net7.0\CompanyManagement.BL.csproj.CoreCompileInputs.cache
+I:\iti\Api\tasks\task2\CompanyManagement.BL\obj\Debug\net7.0\CompanyManagement.BL.csproj.CopyComplete
+I:\iti\Api\tasks\task2\CompanyManagement.BL\obj\Debug\net7.0\CompanyManagement.BL.dll
+I:\iti\Api\tasks\task2\CompanyManagement.BL\obj\Debug\net7.0\refint\CompanyManagement.BL.dll
+I:\iti\Api\tasks\task2\CompanyManagement.BL\obj\Debug\net7.0\CompanyManagement.BL.pdb
+I:\iti\Api\tasks\task2\CompanyManagement.BL\obj\Debug\net7.0\ref\CompanyManagement.BL.dll
