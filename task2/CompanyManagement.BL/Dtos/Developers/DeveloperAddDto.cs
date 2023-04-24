@@ -8,7 +8,6 @@ namespace CompanyManagement.BL.Dtos.Developers
 {
     public class DeveloperAddDto
     {
-        public int id { get; init; }
-        public string Name { get; init; } = string.Empty;
+        public required string Name { get; init; } = string.Empty;
     }
 }

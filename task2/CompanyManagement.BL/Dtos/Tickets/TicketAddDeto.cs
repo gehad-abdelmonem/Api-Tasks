@@ -11,9 +11,9 @@ namespace CompanyManagement.BL.Dtos.Tickets
 {
     public class TicketAddDeto
     {
-        public string Description { get; set; } = string.Empty;
-        public string Title { get; set; } = string.Empty;
-        public int deptid { get; set; }
-        public ICollection<DeveloperAddDto>? Developers { get; init; }
+        public required string Description { get; set; } = string.Empty;
+        public required string Title { get; set; } = string.Empty;
+        public required int deptid { get; set; }
+        public required ICollection<DeveloperAddDto>? Developers { get; init; }
     }
 }
